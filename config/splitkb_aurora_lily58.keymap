@@ -41,7 +41,7 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&kp ESC  &kp RA(N1)  &kp RA(N2)  &kp RA(N3)  &kp RA(N4)  &kp RA(N5)                            &kp RA(N6)       &kp RA(N7)  &kp RA(N8)  &kp RA(N9)  &kp RA(N0)   &kp MINUS
+&kp ESC  &kp RA(N1)  &kp RA(N2)  &kp RA(N3)  &kp RA(N4)  &kp RA(N5)                            &kp RA(N6)       &kp RA(N7)  &kp RA(N8)  &kp RA(N9)  &kp RA(N0)   &kp RA(RIGHT_BRACKET)
 &trans   &trans      &trans      &kp RA(E)   &trans      &trans                                &kp PRINTSCREEN  &kp DELETE  &kp HOME    &kp END     &kp PAGE_UP  &kp PAGE_DOWN
 &kp F1   &kp F2      &kp F3      &kp F4      &kp F5      &kp F6                                &trans           &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT    &trans
 &kp F7   &kp F8      &kp F9      &kp F10     &kp F11     &kp F12     &kp RA(N8)    &kp RA(N9)  &trans           &trans      &trans      &trans      &trans       &trans
